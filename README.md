@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -53,14 +54,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
