@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0136-single-number/) | Easy |
+| [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
+| [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0994-rotting-oranges/) | Medium |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
