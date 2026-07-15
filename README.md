@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
@@ -148,4 +149,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
