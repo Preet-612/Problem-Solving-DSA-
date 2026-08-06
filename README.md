@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0877-stone-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0877-stone-game/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -213,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0127-word-ladder/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -232,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0127-word-ladder/) | Hard |
+| [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
