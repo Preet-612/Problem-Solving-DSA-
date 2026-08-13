@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -379,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
