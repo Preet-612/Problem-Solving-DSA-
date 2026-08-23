@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1927-sum-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
