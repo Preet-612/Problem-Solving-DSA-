@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1192-critical-connections-in-a-network](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -483,4 +484,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
