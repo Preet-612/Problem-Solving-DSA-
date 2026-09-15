@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
@@ -502,4 +503,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
