@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1872-stone-game-viii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1872-stone-game-viii/) | Hard |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -484,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
