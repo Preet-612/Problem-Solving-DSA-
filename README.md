@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -437,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
