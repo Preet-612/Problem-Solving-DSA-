@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0127-word-ladder/) | Hard |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
