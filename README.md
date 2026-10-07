@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0210-course-schedule-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0127-word-ladder/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Counting Sort
