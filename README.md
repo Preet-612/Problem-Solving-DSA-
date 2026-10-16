@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
@@ -605,4 +608,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
