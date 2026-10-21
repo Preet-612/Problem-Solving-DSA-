@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0063-unique-paths-ii/) | Medium |
+| [0120-triangle](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
