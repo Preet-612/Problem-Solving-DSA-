@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
