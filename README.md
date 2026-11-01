@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
