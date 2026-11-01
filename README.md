@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
@@ -684,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -697,4 +701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
