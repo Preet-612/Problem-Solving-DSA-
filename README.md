@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0494-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Counting Sort
@@ -689,10 +692,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0494-target-sum/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
