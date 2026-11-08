@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -731,4 +733,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
