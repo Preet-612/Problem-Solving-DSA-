@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0542-01-matrix/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0877-stone-game/) | Medium |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0721-accounts-merge/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0856-score-of-parentheses/) | Medium |
@@ -747,5 +749,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
