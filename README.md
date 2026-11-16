@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
