@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0127-word-ladder/) | Hard |
