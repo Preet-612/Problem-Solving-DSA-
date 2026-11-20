@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0070-climbing-stairs/) | Easy |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0126-word-ladder-ii/) | Hard |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0044-wildcard-matching/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0044-wildcard-matching/) | Hard |
 | [0486-predict-the-winner](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
