@@ -2,19 +2,34 @@ class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         
         n = len(prices)
-        
-        dp = [[0]*2 for i in range(n+1)]
+        dp = [0]*2 
         for i in range(n-1,-1,-1):
+            temp = [0]*2
             for j in range(2):
                 if j == 0:                   # buy
-                    tk = -prices[i] + dp[i+1][1]
-                    ntk = dp[i+1][0]
+                    tk = -prices[i] + dp[1]
+                    ntk = dp[0]
                 else:                               # sell
-                    tk = prices[i] + dp[i+1][0]
-                    ntk = dp[i+1][1]
-                dp[i][j] = max(tk,ntk)
+                    tk = prices[i] + dp[0]
+                    ntk = dp[1]
+                temp[j] = max(tk,ntk)
+            dp = temp
         
-        return dp[0][0]
+        return dp[0]
+
+
+        # dp = [[0]*2 for i in range(n+1)]
+        # for i in range(n-1,-1,-1):
+        #     for j in range(2):
+        #         if j == 0:                   # buy
+        #             tk = -prices[i] + dp[i+1][1]
+        #             ntk = dp[i+1][0]
+        #         else:                               # sell
+        #             tk = prices[i] + dp[i+1][0]
+        #             ntk = dp[i+1][1]
+        #         dp[i][j] = max(tk,ntk)
+        
+        # return dp[0][0]
 
                        
 
