@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0136-single-number/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0403-frog-jump/) | Hard |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -780,4 +783,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Preet-612/Problem-Solving-DSA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
